@@ -1,1 +1,4 @@
 Testing the different git applications for TOP
+Now I'm trying to see if the feature we are changing, for VSCode editor
+    to show us a window to write the commit message if we don't type the
+    git commit -m message.
